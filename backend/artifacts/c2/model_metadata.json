@@ -1,0 +1,35 @@
+{
+  "version": "v1.0",
+  "readinessStatus": "PROTOTYPE_SYNTHETIC",
+  "validationStatus": "UNVALIDATED_FIELD_BENCHMARK",
+  "datasetProvenance": "Controlled pathological visual fixtures generated for transfer learning architecture benchmarking; not in-situ field sensor observations",
+  "primary_model": {
+    "identifier": "c2_efficientnet_b0",
+    "architecture": "EfficientNet-B0",
+    "accuracy": 0.95,
+    "macro_f1": 0.9514,
+    "model_size_mb": 15.6,
+    "inference_latency_ms": 73.79,
+    "readiness": "PROTOTYPE_SYNTHETIC"
+  },
+  "comparison_model": {
+    "identifier": "c2_resnet50",
+    "architecture": "ResNet50",
+    "accuracy": 0.5,
+    "macro_f1": 0.4141,
+    "model_size_mb": 90.04,
+    "inference_latency_ms": 187.31,
+    "readiness": "PROTOTYPE_SYNTHETIC"
+  },
+  "classes": [
+    "BANANA___BUNCHY_TOP",
+    "BANANA___HEALTHY",
+    "BANANA___SIGATOKA",
+    "BLACK_PEPPER___HEALTHY",
+    "BLACK_PEPPER___POLLU_DISEASE",
+    "BLACK_PEPPER___QUICK_WILT",
+    "PINEAPPLE___HEALTHY",
+    "PINEAPPLE___HEART_ROT"
+  ],
+  "evaluation_date": "2026-10-18T21:21:46Z"
+}

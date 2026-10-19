@@ -1,0 +1,77 @@
+{
+  "version": "v1.0",
+  "selected_model": "Gradient Boosting",
+  "selected_model_f1": 0.886,
+  "validation_metrics": {
+    "Baseline (Dummy)": {
+      "accuracy": 0.6583,
+      "precision": 0.6583,
+      "recall": 1.0,
+      "macro_f1": 0.397,
+      "brier_score": 0.2249,
+      "roc_auc": 0.5
+    },
+    "Random Forest": {
+      "accuracy": 0.85,
+      "precision": 0.9067,
+      "recall": 0.8608,
+      "macro_f1": 0.8369,
+      "brier_score": 0.1084,
+      "roc_auc": 0.9345
+    },
+    "XGBoost": {
+      "accuracy": 0.875,
+      "precision": 0.881,
+      "recall": 0.9367,
+      "macro_f1": 0.8566,
+      "brier_score": 0.0828,
+      "roc_auc": 0.9583
+    },
+    "CatBoost": {
+      "accuracy": 0.8833,
+      "precision": 0.8824,
+      "recall": 0.9494,
+      "macro_f1": 0.8652,
+      "brier_score": 0.0805,
+      "roc_auc": 0.9574
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.9,
+      "precision": 0.9036,
+      "recall": 0.9494,
+      "macro_f1": 0.886,
+      "brier_score": 0.0818,
+      "roc_auc": 0.9531
+    }
+  },
+  "feature_count": 26,
+  "feature_names": [
+    "distance_km",
+    "duration_hours",
+    "temperature_celsius",
+    "humidity_percentage",
+    "travel_speed_kmh",
+    "thermal_stress_index",
+    "crop_type_BANANA",
+    "crop_type_BLACK_PEPPER",
+    "crop_type_PINEAPPLE",
+    "vehicle_type_COVERED_TRUCK",
+    "vehicle_type_OPEN_TRUCK",
+    "vehicle_type_PICKUP",
+    "vehicle_type_REFRIGERATED_TRUCK",
+    "vehicle_type_THREE_WHEELER",
+    "vehicle_type_TRACTOR_TRAILER",
+    "road_condition_MIXED",
+    "road_condition_PAVED_GOOD",
+    "road_condition_PAVED_POOR",
+    "road_condition_UNPAVED_ROUGH",
+    "packaging_type_CORRUGATED_BOXES",
+    "packaging_type_GUNNY_BAGS",
+    "packaging_type_JUTE_BAGS",
+    "packaging_type_LOOSE_BULK",
+    "packaging_type_PLASTIC_CRATES",
+    "packaging_type_POLYETHYLENE_LINED_BAGS",
+    "packaging_type_WOODEN_CRATES"
+  ],
+  "random_seed": 42
+}

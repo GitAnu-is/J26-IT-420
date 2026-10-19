@@ -1,0 +1,57 @@
+{
+  "model_identifier": "c2_resnet50",
+  "architecture": "ResNet50",
+  "version": "v1.0",
+  "num_classes": 8,
+  "classes": [
+    "BANANA___BUNCHY_TOP",
+    "BANANA___HEALTHY",
+    "BANANA___SIGATOKA",
+    "BLACK_PEPPER___HEALTHY",
+    "BLACK_PEPPER___POLLU_DISEASE",
+    "BLACK_PEPPER___QUICK_WILT",
+    "PINEAPPLE___HEALTHY",
+    "PINEAPPLE___HEART_ROT"
+  ],
+  "best_val_loss": 1.2291,
+  "best_val_accuracy": 0.55,
+  "training_epochs": 5,
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.1791,
+      "train_acc": 0.2687,
+      "val_loss": 2.5748,
+      "val_acc": 0.125
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.6304,
+      "train_acc": 0.3406,
+      "val_loss": 2.1467,
+      "val_acc": 0.125
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.5854,
+      "train_acc": 0.3156,
+      "val_loss": 1.3219,
+      "val_acc": 0.425
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.5651,
+      "train_acc": 0.3625,
+      "val_loss": 1.3976,
+      "val_acc": 0.375
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.4997,
+      "train_acc": 0.4094,
+      "val_loss": 1.2291,
+      "val_acc": 0.55
+    }
+  ],
+  "training_date": "2026-10-18T21:20:52Z"
+}
