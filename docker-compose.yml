@@ -1,0 +1,111 @@
+version: '3.8'
+
+services:
+  # ============================================================================
+  # Node.js Express Backend Service
+  # ============================================================================
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: agriguard-backend
+    restart: unless-stopped
+    ports:
+      - "${PORT:-5000}:5000"
+    environment:
+      - NODE_ENV=development
+      - PORT=5000
+      - HOST=0.0.0.0
+      - MONGODB_URI=${MONGODB_URI}
+      - CORS_ORIGINS=${CORS_ORIGINS:-http://localhost:5173,http://localhost:3000}
+      - JWT_ACCESS_SECRET=${JWT_ACCESS_SECRET}
+      - JWT_REFRESH_SECRET=${JWT_REFRESH_SECRET}
+      - C1_PYTHON_SERVICE_URL=http://c1-crop-service:8001
+      - C2_PYTHON_SERVICE_URL=http://c2-disease-service:8002
+      - C4_PYTHON_SERVICE_URL=http://c4-transport-service:8003
+      - LOG_LEVEL=info
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:5000/health/live').then(r => r.ok ? process.exit(0) : process.exit(1)).catch(() => process.exit(1))"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+    depends_on:
+      c1-crop-service:
+        condition: service_healthy
+      c2-disease-service:
+        condition: service_healthy
+      c4-transport-service:
+        condition: service_healthy
+    networks:
+      - agriguard-network
+
+  # ============================================================================
+  # Component 1 Python ML Microservice (Crop Recommendation & Harvest Planning)
+  # ============================================================================
+  c1-crop-service:
+    build:
+      context: ./ml-services/c1_crop_recommendation
+      dockerfile: Dockerfile
+    container_name: agriguard-c1-ml
+    restart: unless-stopped
+    ports:
+      - "8001:8001"
+    environment:
+      - PORT=8001
+      - C1_INTERNAL_KEY=${C1_PYTHON_SERVICE_KEY:-c1_secret_change_in_production}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8001/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - agriguard-network
+
+  # ============================================================================
+  # Component 2 Python Deep Learning Microservice (Plant Disease Detection)
+  # ============================================================================
+  c2-disease-service:
+    build:
+      context: ./ml-services/c2_disease_detection
+      dockerfile: Dockerfile
+    container_name: agriguard-c2-ml
+    restart: unless-stopped
+    ports:
+      - "8002:8002"
+    environment:
+      - PORT=8002
+      - C2_INTERNAL_KEY=${C2_PYTHON_SERVICE_KEY:-c2_internal_secret_key_change_in_production_12345}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8002/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - agriguard-network
+
+  # ============================================================================
+  # Component 4 Python ML Microservice (Transportation Risk & Smart Packaging)
+  # ============================================================================
+  c4-transport-service:
+    build:
+      context: ./ml-services/c4_transportation_risk
+      dockerfile: Dockerfile
+    container_name: agriguard-c4-ml
+    restart: unless-stopped
+    ports:
+      - "8003:8003"
+    environment:
+      - PORT=8003
+      - C4_INTERNAL_KEY=${C4_PYTHON_SERVICE_KEY:-c4_internal_secret_key_change_in_production_12345}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8003/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - agriguard-network
+
+networks:
+  agriguard-network:
+    driver: bridge

@@ -1,0 +1,34 @@
+name: agriguard_mobile
+description: "AgriGuard — AI-Powered Smart Agriculture Platform for Minimizing Post-Harvest Crop Losses (SLIIT J26-IT-420)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.3
+  provider: ^6.1.2
+  flutter_secure_storage: ^9.2.2
+  shared_preferences: ^2.2.3
+  http: ^1.2.1
+  image_picker: ^1.1.2
+  flutter_svg: ^2.0.10+1
+  cached_network_image: ^3.3.1
+  path_provider: ^2.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
