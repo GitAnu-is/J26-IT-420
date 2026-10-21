@@ -1,0 +1,42 @@
+{
+  "dataset_name": "AgriGuard Transportation Risk Benchmark Dataset",
+  "dataset_version": "v1.0",
+  "provenance": "PROTOTYPE_SYNTHETIC",
+  "intended_use": "Algorithm benchmarking (RF, XGBoost, CatBoost, GradientBoosting), probability calibration, SHAP attribution, and CI/CD validation",
+  "scientific_limitation": "Synthetically modeled on Sri Lankan post-harvest literature parameters; not collected from active IoT fleet transit sensors.",
+  "random_seed": 42,
+  "total_records": 1200,
+  "splits": {
+    "train": {
+      "count": 960,
+      "damage_rate": 0.6615,
+      "sha256": "f2e50c87cd1af022b77bb47945208108301bdf9f68e828d51deb5319b586db9a"
+    },
+    "validation": {
+      "count": 120,
+      "damage_rate": 0.6583,
+      "sha256": "f4c79c1fa0e176cd0cdc21bcda5a5e5fa721a6e0c0cdececcb3460d6c6bcaaea"
+    },
+    "test": {
+      "count": 120,
+      "damage_rate": 0.6167,
+      "sha256": "63690fa948d82f92a1fb9a4a86b10b6141883606f12b2ea5f5875164c06b04ad"
+    }
+  },
+  "crops": [
+    "BLACK_PEPPER",
+    "PINEAPPLE",
+    "BANANA"
+  ],
+  "features": [
+    "crop_type",
+    "distance_km",
+    "duration_hours",
+    "vehicle_type",
+    "road_condition",
+    "packaging_type",
+    "temperature_celsius",
+    "humidity_percentage"
+  ],
+  "target": "damage_outcome"
+}

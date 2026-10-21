@@ -1,0 +1,50 @@
+{
+  "model_identifier": "c1_harvest_random_forest",
+  "model_version": "v1.0",
+  "model_type": "RandomForestRegressor",
+  "target": "harvest_duration_days",
+  "training_date": "2026-10-18T20:10:57Z",
+  "feature_schema": {
+    "numeric": [
+      "soil_ph",
+      "soil_moisture",
+      "temperature",
+      "rainfall"
+    ],
+    "categorical": [
+      "crop_type",
+      "variety",
+      "district",
+      "season"
+    ]
+  },
+  "performance": {
+    "mae_days": 9.21,
+    "rmse_days": 11.74,
+    "r2_score": 0.9875,
+    "cv_mae_days": 9.56,
+    "baseline_mae_days": 16.56,
+    "baseline_rmse_days": 20.83,
+    "latency_ms": 0.15
+  },
+  "per_crop_performance": {
+    "BANANA": {
+      "mae_days": 8.0,
+      "rmse_days": 10.18,
+      "r2_score": 0.6474,
+      "count": 160
+    },
+    "PINEAPPLE": {
+      "mae_days": 12.66,
+      "rmse_days": 15.33,
+      "r2_score": 0.7208,
+      "count": 160
+    },
+    "BLACK_PEPPER": {
+      "mae_days": 6.96,
+      "rmse_days": 8.64,
+      "r2_score": 0.5174,
+      "count": 160
+    }
+  }
+}

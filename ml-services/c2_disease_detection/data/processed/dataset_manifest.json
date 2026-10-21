@@ -1,0 +1,2468 @@
+{
+  "classes": [
+    "BANANA___BUNCHY_TOP",
+    "BANANA___HEALTHY",
+    "BANANA___SIGATOKA",
+    "BLACK_PEPPER___HEALTHY",
+    "BLACK_PEPPER___POLLU_DISEASE",
+    "BLACK_PEPPER___QUICK_WILT",
+    "PINEAPPLE___HEALTHY",
+    "PINEAPPLE___HEART_ROT"
+  ],
+  "splits": {
+    "train": {
+      "BANANA___BUNCHY_TOP": [
+        {
+          "file": "BANANA___BUNCHY_TOP_train_000.png",
+          "sha256": "fc9c508ef7e780427d236202450fe93dbfad7408c6985b392048aff9200ac3b6",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_001.png",
+          "sha256": "72b93c494ce4b0ac7d4ab87ae7a991de0078278e3e38ef69340087b4a71af2e9",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_002.png",
+          "sha256": "17243294ad201a97ddd75753b1dd1b711a0e254b7c82e6252f36a3f50a0c7edf",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_003.png",
+          "sha256": "2626fd48546d0715a031dc5e2589f0985dc6d14d02e8348ceb7e4e5eb4c97487",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_004.png",
+          "sha256": "77b64ce955cef0ff1cc55b403eccf5d87af959f1218242b6a0fac87edc1c25d1",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_005.png",
+          "sha256": "5b6ba359b729fac7e89ba1e4d0334263a002ce5fe577e461d3789f9c97d642b9",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_006.png",
+          "sha256": "2773a6e6e9ba8ffc9c249dbd2b6c1df301cdc04f61b98d5b5d3a4a9852d7c8d3",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_007.png",
+          "sha256": "4b274482fdcf0e090d675dbf4f93da84378b912dee9c0cec133fad75c06ee7d1",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_008.png",
+          "sha256": "62ea7838be99f35afa134dc3c79596198ddd5bd246e1e5b9d3bb0989bb1bd03f",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_009.png",
+          "sha256": "ac8eceac4618ab0a095531d9feb019747ca81fcacc2badfc80c62e6a2f0dace0",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_010.png",
+          "sha256": "ab8e1008c256f02acbf930e632fb4b76630b357fbdf04aa25dc213b084334f25",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_011.png",
+          "sha256": "b4490f00c710a328a7dbffd6aa5d898cde8905c3935c783d53f4be6c01714b07",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_012.png",
+          "sha256": "468f8f2f7ffaa293c9ded01ee378d4abd316f54ef6cfa032cdefef26214c70a9",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_013.png",
+          "sha256": "f7864427cc058fac4fad7308ff0093d42ea706c0afafe7106f495471f4ed6d92",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_014.png",
+          "sha256": "4eb95d031ec0e03fceccfc8d1410c267e57f77b0cc192e67e48cc32d27d00441",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_015.png",
+          "sha256": "c6b81d046b718d0dfb397a0a4756f0ab7a03b542ccf5e4929bfad5f7382eef4e",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_016.png",
+          "sha256": "c9bec88db4015999fef956cd0c75f19f2fc18572512a237924e65db04911dfb6",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_017.png",
+          "sha256": "af4156b34591b676c6282ec8023d334337711914e648ee9c6bb9c888d7ddb16e",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_018.png",
+          "sha256": "1d584addb706ddd2e7245ffcef8244a0dc5d4c7989b770d4c03f0aa5370223dd",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_019.png",
+          "sha256": "4d47ab29a44fecafc822fea7a912428ebc33c240bb7caa57f19ec2711d335fd9",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_020.png",
+          "sha256": "7e7898145d8f4701d4005ce23f3045df28cede7c1fd4d5631bc71d7f7e63c94d",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_021.png",
+          "sha256": "250e61bf163587bc5b13a8d9e24f7fa4253af4bf177f8a7825e437f403e2f9da",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_022.png",
+          "sha256": "0909e8681268deab8a00eab301ccf3f4d008620583a388b88b64a0342b1b91b9",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_023.png",
+          "sha256": "ee5e625e74ec1e9f392c0327777f920aa79bfe3ffb93aed542603cf52e60a046",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_024.png",
+          "sha256": "2d93516864f3e558119dd5a630586ab9a751186370a4b269fb08c8dff526101e",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_025.png",
+          "sha256": "2491873eea7c128490a8a407b75830b6ddae59e94a9efa8b150f9ffc85e1fa47",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_026.png",
+          "sha256": "e33c53b1d139e48214918dc8b9b6a3c1ec59cdf4d80d83521461020719b64a47",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_027.png",
+          "sha256": "8fe7a0ee5cbf55c95f235e3df23f83cf1908dad0e3e9cffceb5d575e98104cc9",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_028.png",
+          "sha256": "4bd3829be989cb3abd3ce9fc90a7f7d7f9f634c6b6be2e782563e9387bf2e12f",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_029.png",
+          "sha256": "bb43bedaad96bb04be839d6e8d7b78a234d8f0b1f30acf4a26f2d42e13c88006",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_030.png",
+          "sha256": "1b069d73655fad4bae8793872460baadc2448281a4223abb136e4522e3d9b644",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_031.png",
+          "sha256": "582926359459c8b5d9dc39c0e94bbd5c12bac87956ffe123d6308b4b3e9781de",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_032.png",
+          "sha256": "9afd825f964a5ad19986e74f55a3e6e0d303e91ea30ed0d5ea9f4b4f1d541912",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_033.png",
+          "sha256": "88c1c25e04453e9213216e8fcdf2334fa29e14fbf1ce1e4d49fbc2cea68d020b",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_034.png",
+          "sha256": "f253c3e3d9026b3f1c92b122cc00a48a20f619cb3ca6bfee79e5d818d998b3a8",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_035.png",
+          "sha256": "c1b80f9213465930cc50087d3b5320c69e4fbf9561a0bddc69490140e934263e",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_036.png",
+          "sha256": "51c5d6db3c6f271393eb015b62c7b531297bbe373533fc0c05a936f8d9dcb03a",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_037.png",
+          "sha256": "be05a1073f64166a0c2555bc004a0e4898fff8d2bfc4f6f2406a786047d62b99",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_038.png",
+          "sha256": "b3447918c4524e350ca29efb156b222a458654c70051c99019105aa87603e86b",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_train_039.png",
+          "sha256": "e378a73ad8536155becad3c29236b8a1c6d06868b0b4fe8bdbcdef6a8be26b63",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        }
+      ],
+      "BANANA___HEALTHY": [
+        {
+          "file": "BANANA___HEALTHY_train_000.png",
+          "sha256": "76d03b51d2fe71a6b463c2c13c7ff16ced1032eb9e21e87e28d1158147183b25",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_001.png",
+          "sha256": "c7cbef24791ec4c9cd6fad7a6b3a53ca31fb07efdb7b7ceec199bc5867b627a4",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_002.png",
+          "sha256": "dbf49fe79ef6b9c461a2aadc36fe91b85235d224eec8502ebf14f63d1934ef7c",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_003.png",
+          "sha256": "9219ac17caab7b66fdecdf45bb383fcca3dcac28d9a13bcb9dd49601aef7b731",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_004.png",
+          "sha256": "c29a81c2f28fdad8e128c1659c623396c5063cd0e1c7fb0f0a5c30f5d59ac39d",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_005.png",
+          "sha256": "d0078d2cf468b3fc0286468f02d01dff83f8cb0a0d89e019172510b77a9103ef",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_006.png",
+          "sha256": "96c7b72f9f78606ecf7463c80f30eb6f52d4bdcae4ced9886af596b534c4e99a",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_007.png",
+          "sha256": "735ee0a32131690646d982d81dfee74ba070e40f924184958519fdd1364b2c76",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_008.png",
+          "sha256": "f95e5c4ab503c4e260e3dac354e3c9b959e2599cdac5fb060f12ef5d1da0fe26",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_009.png",
+          "sha256": "2749646b959a6d7588c91b5ea0dc05e27d0377e51f8c36d04806143eadf67a00",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_010.png",
+          "sha256": "65d409bb10c029a3b79c84abdf3185458fab5d2a3cb4ea5e3e5b35d1b8fb4960",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_011.png",
+          "sha256": "7f86cebb4a46de515d5af0cc0d05cf9311c37fa2bd90c0fe1c91533ddd3a6c3c",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_012.png",
+          "sha256": "051c59edd11be2bd3f4909bbcb18a5ebeabf1db2a6a95eb807c5b907b537bcdd",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_013.png",
+          "sha256": "ac2b2340ff370d21810452b58cb8e12470bd192119ac69e1937f476eb760842d",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_014.png",
+          "sha256": "f854e4f683261591816a5419669fffd735892bbbd45c4386c9d2564c0d2e42f8",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_015.png",
+          "sha256": "0c06fc8ff933c2837c18df3bf0ca812ec61a0bb457128c6e1e5ad20ad975f233",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_016.png",
+          "sha256": "10c326806423c162993714ef07631455e1bdcda68ea1732c6ef53f597e35bb2f",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_017.png",
+          "sha256": "6fbeeb5843c9441b230233983220d25aef5fe1cc4bb7c1b1d7429e3fdbadcbc2",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_018.png",
+          "sha256": "80d77111468ff300fd16b58d830d42dab978147c92ab0faa1ff4cc164a2977e3",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_019.png",
+          "sha256": "9dd835235287c8fb2f0ded0501c284fd575f7f1b1f2bb19c1b15eb2bc2b659e8",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_020.png",
+          "sha256": "63863d3ab613e2b58880ad302ac35ba2baf8ad550b9194d9cf7db1f5e1e54d65",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_021.png",
+          "sha256": "de6d516f4e0cba03cc2859b068192d914e37ecb71a9c66a30fb239d78a9ca2ee",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_022.png",
+          "sha256": "022381440acf9d367f9e4cd5c3fd4810e8132eefabec7f71824d4b87b681dcc2",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_023.png",
+          "sha256": "571e0eff5709ccbbe78ee04efe560129478daeb56d9fb05029a55e0d8f5f47de",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_024.png",
+          "sha256": "4972bc78c5a8acf28c15c702eba434dcfd99fe743405504fa0d0326adb7cacc5",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_025.png",
+          "sha256": "8c6bb910dae176b035232cce7b63d44ae36fdbf4ca09d6fb0706903748accadc",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_026.png",
+          "sha256": "6e15a071e3bb9c08b36bdc3c2d12c1a97253753752620522b31a15fe851c556b",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_027.png",
+          "sha256": "cb7fb6c08a9708cbb84f5f1d10406d76c78a342c96a23690133e72e74d23f9f0",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_028.png",
+          "sha256": "4b3e2b622ea62615e17e0fc61850b458eda94b554914b5b4f1049967e0d4a613",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_029.png",
+          "sha256": "7f43a8d5df32e3aab0f4dd7c3bed0f42f23dfb157061354ac1772915cd154749",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_030.png",
+          "sha256": "dc9853292bd5ca7c206f77fbe12319284aef888c8561ce6dc6ccb4c05aede54c",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_031.png",
+          "sha256": "13ce9f8de6fcd76c685514377bc54f43d47bc56970c1ab7b49e835bc8a3aff14",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_032.png",
+          "sha256": "755a4583d4a624577df10e5569f5b2084ef2a1bbe4d1d12cc8c3ea819bcd1ef0",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_033.png",
+          "sha256": "b28f0823642e06abbc0917ba4acd14893a7cbcc491f34ed22dfb5736146fea66",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_034.png",
+          "sha256": "3053c15d8129e17779b02a3f8581d6f7506769b0c64e0d483541ef25d205345e",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_035.png",
+          "sha256": "56b3b4b0de8beaee46dd9b9e63c4f271a3d6f86bfb7d4a5d3e282afa312cc5f8",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_036.png",
+          "sha256": "950b8c83f4c1017f9a3dd96b3cd4b16a38e6368d34d65573b1dbac1369094ca3",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_037.png",
+          "sha256": "7291ec345dfa420d3a367839e147dc776d674b73c58bc7d382a721e2ad81ad7f",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_038.png",
+          "sha256": "02b6760d491d67d5ee3239e5705c3318b60e12fdc32588fbf74e921700842289",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_train_039.png",
+          "sha256": "e0fcb5d382891aa2a2ffa5556aa7e31452499377a2aca0bb7c4e14fdaf0b8b9b",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        }
+      ],
+      "BANANA___SIGATOKA": [
+        {
+          "file": "BANANA___SIGATOKA_train_000.png",
+          "sha256": "3fc9384d0a738eb63e97252cec325f31c95bb62bc2525c25904b4f8b37fec6ff",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_001.png",
+          "sha256": "d8eacc8b9444af9c2aab38205cd5c93986523b99945b9c31a4544b698c196e16",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_002.png",
+          "sha256": "45a8602d7e31719b30fea1120495a770c6b7bfaad81c73fc0ae967ad14f5788b",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_003.png",
+          "sha256": "84c8de50dfebd7043ddb23e496e9a9d130fab2702f29e0ab243fd46d88700513",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_004.png",
+          "sha256": "cef4eca8f02159f58c9b5279f54114d17b710186d024450920f377ef3512b4cb",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_005.png",
+          "sha256": "adeffacaa14b38b9510adc22a2025b06f81d9ba14ee6965a3de7771961540a6a",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_006.png",
+          "sha256": "6a7ce2f09d3eed76675bc5ee95719ff1b0d54873c11b9862d134b1ff41c91a92",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_007.png",
+          "sha256": "8a7d35e04f5f0dddfb871a48d4f39ca987a6c6e261aaa354c0b0dba328ff9dcb",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_008.png",
+          "sha256": "52687ef9ea2b6fcc359075b7f26a15ee5e6b54120c62d2f61f9b9698f469738d",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_009.png",
+          "sha256": "283df6ba8ed717807ae39a21ced6641b8c84922818b9e01f8615e2c66bf9e797",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_010.png",
+          "sha256": "832dd3b7b52851d6779d73cc0b5c669eb3f58eb4f1176ab43e20e9f0987c2714",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_011.png",
+          "sha256": "91c4412d5e37f768fb091d086dac12cdbf6ad0dff48162e1750203061838b3c8",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_012.png",
+          "sha256": "4990e268da860533e5d84cf685bf806bcdb10497413ccf38a6f0a8e7953d4004",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_013.png",
+          "sha256": "dba476bf2fee1eb82b040668f135adfcbc205c53b9607cfaa1b0908a1f7e2777",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_014.png",
+          "sha256": "51558c0a3d402c4f7c760426560947b9934b5aea6a3ec19c9f580ab1834642f1",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_015.png",
+          "sha256": "782eed9dbb9fe7274e3daf438a9e59dd6f423fbf6bbc343b531311c19317c56b",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_016.png",
+          "sha256": "fa73f4dc7172e1adfcd30ae1ebdc31c87aa67c34651a6115051b662947c63d75",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_017.png",
+          "sha256": "1cc2d46fa1a944be4cb02385628515f7a0329dc36dd9fed448c5e3fee187bc09",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_018.png",
+          "sha256": "6b560a27258ab7985d360fe4eb88b71e514dd91a905fb28e5aa77bfee2f3647d",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_019.png",
+          "sha256": "b983ab75dd910643ded709bb90212f06ca18e3ec7a4e7afcaa90bb2da4457ca8",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_020.png",
+          "sha256": "33ce1ca5e7528efdddea764bbf4d462c30c62e7e2fe55ff7af0a824b85257e81",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_021.png",
+          "sha256": "b6f80d5eb50aa2814f455971f044c024566c42fc444cc7136ed6c69344553aca",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_022.png",
+          "sha256": "7c448f4704b11269939ea8d6044da4fccaa617db6e7d69ec68b67a40fce3775c",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_023.png",
+          "sha256": "063282f10edf2e6d91aed98b0d6f180c704baf994854e41f068adab50b8e9a26",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_024.png",
+          "sha256": "4daab61e8dc730fc46354163bcbe0148f80bde4638b6fb41a006d6dc0e4810fe",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_025.png",
+          "sha256": "41054151c9c3d35e57c4e5cabb53e4698797ae08a1b937254d23785801fcd556",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_026.png",
+          "sha256": "3ae9430234872da96f956bcd9d390fca31a93d2d613a85415235651740a3698d",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_027.png",
+          "sha256": "1b4530b055df3e51e6d6f72abfb24cd26317e9c9dad651a25a4e20166f518568",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_028.png",
+          "sha256": "885232623724066295eae18803c8259af0fc576062bb42cda46442ef0aef618e",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_029.png",
+          "sha256": "7add82b2ca80909067d0850d939b815d20ac48ae51f4f62616dc2295d027442d",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_030.png",
+          "sha256": "d5fbb72c1f3fb33380b49d1c2c38e56feb2cb77cf39c7efa317776dc01d0398d",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_031.png",
+          "sha256": "7275ab0f95562ca8edd6a3a55eeb6961108afd10faab8185c67c90e47291feaa",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_032.png",
+          "sha256": "548a8fef1a8e2069c4b78227d4885efc6bfa895cf38fdbe40c6faa3f9f2848fd",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_033.png",
+          "sha256": "004280b0f3318a5c02699f1f5ee9780c85e5c4cfd8590a281f74b06dbfa0d7d7",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_034.png",
+          "sha256": "943cb557c29812c600250cd1d3c117a3fdc2a68fa6e68f184780dd0f6fe776dd",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_035.png",
+          "sha256": "4aa66c8c701d05ee9c30dfde9018e1505ff68e13852bbb6009539962333db4b7",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_036.png",
+          "sha256": "16f2095015987215377f7e58ff508fa06784d5edee44900d97132c45f35b0690",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_037.png",
+          "sha256": "ea5db8adf3004016ee05c879c192806705c4290ccdc89fd0477f9939aabff5fc",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_038.png",
+          "sha256": "c39c94ce5d252c0149a712ecf482a211f5f937f3c1abbdcf1ad5cdba52c3c003",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_train_039.png",
+          "sha256": "85963ca4cab7ca1ed744e42b01d9d83a22b254510b303a5e476c82377dde05f7",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        }
+      ],
+      "BLACK_PEPPER___HEALTHY": [
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_000.png",
+          "sha256": "72681c76e93cebd4b29da5a80db3561d33d3d8e42ee6577da89b32568b827ff4",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_001.png",
+          "sha256": "4a76b01a7bfd46f004966d9e1f044a230957f7ff1e343e4670d1832fbb032f57",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_002.png",
+          "sha256": "ac7e91fdb7ac2fb6ccebe2f59425179c34aad26bacb62b779cde59a874c9164d",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_003.png",
+          "sha256": "36703a03f745a536e0a72be6c05b0e36fa3497501f3e07e48493ddb7d89ebe16",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_004.png",
+          "sha256": "aefc23ed777aa8107db980b5c7d411bdff7ffe752835dc4180be855576ed9ceb",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_005.png",
+          "sha256": "65951015033b1af0e20a304589fcf6397a4c35571b0882406f7a8a416cc30c71",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_006.png",
+          "sha256": "cc2981dabdd22eb564e003e78fc2cdd7734aa07f1c03005ad0796aa50afec5ec",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_007.png",
+          "sha256": "5520781a8b88607b3f04e84b59143293f887685ba55427d7e2c3711e0c519468",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_008.png",
+          "sha256": "9e7b55f365a6680e18ebf720231c9a40a888c5259c62e69c8923f269f3370714",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_009.png",
+          "sha256": "d3e98a41e68ff05e7b11d10b19ab9542474a09c2d0e8ff66bda1795b0f271915",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_010.png",
+          "sha256": "50ad2e9ccc452ba21a2406687b131630c3362299adc8aebed6675d356fd59279",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_011.png",
+          "sha256": "e44a02fe0b4eac1463ac6d7e1b1e80d3871a309e83522047f7060340b3a62187",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_012.png",
+          "sha256": "95e99b2d48b542057774d474db5c71144fe68ce3cb267a721932728a24088a48",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_013.png",
+          "sha256": "50583a61760ebbed621832ba4e1624d8d621eb2002545b91965ec27f9653db21",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_014.png",
+          "sha256": "cace806036c210334b735b41f4abc31ceb8192ed422aeeae19835e756fd4b408",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_015.png",
+          "sha256": "df99acfdf759db03be303ad55b4ee3eb9187073253cf6ea919728862cef5025d",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_016.png",
+          "sha256": "bf205842fc0c623bb89bd24af98d99e5f5c6faaf809a5cdb8da86add58b6bf43",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_017.png",
+          "sha256": "65e0f2b5d651f593c36728205ffa38afcab7022505fdb138dfe3adc92cb1a784",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_018.png",
+          "sha256": "c82e9b08a2da4f12c72c17640ac306bb57d87f08480cf8a40cfcc2f6deeeeb19",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_019.png",
+          "sha256": "a04e971b4c68a3f516b32388f70b66255f9d13437ebd2869468b24bb53df0328",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_020.png",
+          "sha256": "486a59457364aefbdef8809add1745b3069188096729f51b6045091582cdf45e",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_021.png",
+          "sha256": "50d8c430188b76397f120d3335047e49c03be5ab1206f91fabc0fbea4d11c0f4",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_022.png",
+          "sha256": "d74682eb6d722c0b6ad0abf58e4e385c77d4b61258a1d523cebbb3d348421487",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_023.png",
+          "sha256": "295531656c494c23f0e1afbad98c30dd1211ffd2d70a06ef1deebe696618c5a8",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_024.png",
+          "sha256": "be494ae21a0ba2b7b2d6c6e9e3803800024f860fb59180200f021111dcdf4681",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_025.png",
+          "sha256": "b8405ec9d910ad9632dbd70361556df063f0055b745a735c675a22cda9f3fbbf",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_026.png",
+          "sha256": "08b48f921a8ef5a0c520c6a3abf1d6d9086ad48eec2094717e621591a03aaa42",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_027.png",
+          "sha256": "4ccb8be4b72c3dc1159e2ccdb3340662424fc13ca562860461d338aab0ebad79",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_028.png",
+          "sha256": "652d3c9a03568d37fca77400b3cfef54dca12200c3ec4e83747ea16ed0d21eb7",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_029.png",
+          "sha256": "ac08304796d927094b8ebfb5653d118a3c8035f71037ddb401b3a3c0ece0400f",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_030.png",
+          "sha256": "18c727eef00e9d8bcf3097e09fda41e9a9a6b1622d93a4b7775e9f7d2fad755d",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_031.png",
+          "sha256": "44876521c2ccf1b0da28b7734039a11b5987dc27fe2609da596904eec7c947c4",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_032.png",
+          "sha256": "a7c347712442c53238dec5b0b04946a4fc3fc704607faa54bacad3b867f52595",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_033.png",
+          "sha256": "b6b4b73025c9251c609096fc8830c104a26773f77b69d581803112f73b99b815",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_034.png",
+          "sha256": "dc9c740c094a050de653316b828ee963bf208ad977aeea35b665000e8c31dc22",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_035.png",
+          "sha256": "4e90e8309fac90cdb4fb8944389f89715d38c789535459842a1e630e44e5bdea",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_036.png",
+          "sha256": "1a3efe384155d8ca005f6156a8fa03ced625297144b00b3f11dc17c780c72401",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_037.png",
+          "sha256": "9baad90e8d302172c2dff9c6b5a0bf6d202ebe7061597bec0fe21d51ab49bfb4",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_038.png",
+          "sha256": "b08e45bca2b658258d114d9c0641b65bc8a16606d68019a3103a27acd3f25cd3",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_train_039.png",
+          "sha256": "d982f1a8b2c5cd5d04e1ac32c077c6922f0cf0c040de690f43913fb4cda274b0",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        }
+      ],
+      "BLACK_PEPPER___POLLU_DISEASE": [
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_000.png",
+          "sha256": "81cb9a2e6da9069cc36495f48ff36eb6d0350ddfe49740c9a2a7886914c5aedf",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_001.png",
+          "sha256": "bb91bc44386bf8cb9dcec55f31347366940eb26fb6c962f674a6b17c77be5732",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_002.png",
+          "sha256": "775a6b6ecf8047ff844d78d50ed98f5aef2551a0e4b23356f15807e960458e01",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_003.png",
+          "sha256": "a25ed18cf3fbc3712b03df16423d8055e0ab233f6d539ec14fd820d951340f6d",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_004.png",
+          "sha256": "885fa2e416f0b00466ff24feadc7f9daecb66d4f14ec60ca52249076f2b8ad17",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_005.png",
+          "sha256": "08fff66e61cece5b290caeea00bf467db7c159bc394ee3418761ecc8519fb8c5",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_006.png",
+          "sha256": "4db5ff47ad5875b9d40aef1e4e92662936bafd1aa1187bd692088a08ea4e9124",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_007.png",
+          "sha256": "ad82b1a68fde73ce5ed692a8605f43dfe3899b5c9d70044efeba278d98704996",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_008.png",
+          "sha256": "55b92e8e29d2181cb65c23ea134cd1f2961d15f7d88351cacf2f7bb78acbb312",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_009.png",
+          "sha256": "077d38701489cd7c54fe4b76a4a8d4070f9fc2ad3b826f9ba7950c9aa6d039d7",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_010.png",
+          "sha256": "b1bc5bced67a108b0ffe81f46060242358b30c119dab9acc4e7ed0e6830a51c1",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_011.png",
+          "sha256": "2a358124e79896061c21b7a31f684f20265065800d557f83eb6fef9de45b37f1",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_012.png",
+          "sha256": "0c7a7f12f403d3caafa4f96d71b6e75931791891102a06dc2ffdbe61259d27dc",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_013.png",
+          "sha256": "8388f6dae9b7fbd99cd234fbaa93416657093d3a8996130fe3e2ee681e886acc",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_014.png",
+          "sha256": "2fb7cde32ec91400bb3f116f9fce04f57bcae96605d7a9274a4ad405ffd22e11",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_015.png",
+          "sha256": "854d16249cf419a340e643d28c7e3d57f2ea4cb626e9d8663a19606eb53cea58",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_016.png",
+          "sha256": "d99b9df1e32b91ca75b465b47d77d6faa7ca1839ccfd2f2043f04c29922e9ed9",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_017.png",
+          "sha256": "40a2787db1f140d73d06379d07f02975c0e35245d91fe45171b550ad93b31a39",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_018.png",
+          "sha256": "6b21048f282bf91c2487fe69ac5d0aa5b2c62afb8128ed023ea020e0157d7a79",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_019.png",
+          "sha256": "ef44d99dff14095bdf878a644edff29c137b56676b30c3029a721fb83d8e6df6",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_020.png",
+          "sha256": "10d289b538bc3d581e40454fe318c7427a6a279c3c1950deb4031f0ede789097",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_021.png",
+          "sha256": "f87feae6248bded3648bdd0cebd5bc0ec95ccba9845132f7d4822906b81acc39",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_022.png",
+          "sha256": "afc69d3530247ba3cf35683a11d243f86e8cf0909d51de93d5655557587a46ce",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_023.png",
+          "sha256": "140b314733e346ae794670560156d28335a273f3c84015da62e3adf21e73b3d3",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_024.png",
+          "sha256": "870b6526b06a912633ac1ab5324153a42139bbe11fca658aa7d3f5e22a8a5972",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_025.png",
+          "sha256": "4582e5ff0a42f3ada4502d35d580d644116c758e5daa30e70543f3184800ec24",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_026.png",
+          "sha256": "bd6810a653f5b426e78d014ef5bccb6aa2be12b6614160ee2213f7cab2b44ef4",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_027.png",
+          "sha256": "c74e487216bf5e78afb77c650d30abb6db86996332287c428e8006e79488175b",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_028.png",
+          "sha256": "d03eb17c6a476f4cd4728e155d17471df19649e66bbd033586a3cb033a59674f",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_029.png",
+          "sha256": "834c164ced730f757020e91367961ffb5f0770afcf62fa1c4e4794c6ebfbd050",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_030.png",
+          "sha256": "9c132622fd55a096d6673d61b67200ad8aabc51e9856dc9e8b719335244fd82c",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_031.png",
+          "sha256": "c551d601b9d65ad97dd94c90af629fa5098d4a34412149aac3e58b5749273833",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_032.png",
+          "sha256": "52aaddb00af558a355dd33badeef1721eb1405effd9393be2490552c8e3901bc",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_033.png",
+          "sha256": "c455735ad5c401db302ac2d0b2e0ad74b29ab71bc71d9337621e9477a62cbeb4",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_034.png",
+          "sha256": "dd45250fbf97b82d00e38fb91aa04384f71c0525a0e879a9b7371110414ae2a6",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_035.png",
+          "sha256": "661d301301785c601085e34e440175fd7a2a7dcbed730291c3f8332318184a41",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_036.png",
+          "sha256": "820aff531fc2adb45f329930eefb7b65275a3d34417a450e9090cc5ca263c64d",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_037.png",
+          "sha256": "c393c89f689573ef96d0423d1af73f505d4f359137c0a3f377303c8c8749315a",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_038.png",
+          "sha256": "620ba4d82778a69ac11633e1ce10ae48c1ddbb43df68290c532d7810f53c7440",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_train_039.png",
+          "sha256": "f510c021a39e680c019660e3b983f7ed6539149adad20dfa1a091e5422e84693",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        }
+      ],
+      "BLACK_PEPPER___QUICK_WILT": [
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_000.png",
+          "sha256": "6c906d50d67f98d479daf2093f034f86a36b45acac687b243815cfbe96240264",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_001.png",
+          "sha256": "d7c69cea7ef21afc2597ba870182f8868c223b832d46f91e6a93a574bf0ce931",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_002.png",
+          "sha256": "7c1fee9d62b73a4ff3dedd8e0923287a41fce41e992cd85a2522f21575d9a9d3",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_003.png",
+          "sha256": "6562d618988b4c82453459607f48446dd039512951fb892a93dc9f3c24b33c40",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_004.png",
+          "sha256": "5d46e71198be359e5eb794911795d1a40171b548557c9a5d8fe25c9e7f5a522f",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_005.png",
+          "sha256": "70ac9dbc39b8e303fc7bab79994dc79eb4f644c8da27bb89fee56d8b58026194",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_006.png",
+          "sha256": "df637e517b5eb4cfa27ab3f1e80a8e841ae0b79b0e37b4cfc85e53a08ccdd72f",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_007.png",
+          "sha256": "7574da9ecb088defb10faf841b5a17a4cbdc4f2efcfe1c1c5c8c93dca0326490",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_008.png",
+          "sha256": "2ab2c1e55e671b59eb68957e8938589c0ba109fa7d9b731c796e9f7fd63e1477",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_009.png",
+          "sha256": "0dd6fba4c68a843ce392f0603ac7041cf4efddf10f84b33819b5a256e79b52d9",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_010.png",
+          "sha256": "a2d2c2569c6b17936566f927c5acbb7878f09a05f75da3a133ca86baf18db6cb",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_011.png",
+          "sha256": "935188776a7138c54b0b6361bec38c83bc1192f98be11dac3858e8e3aba927f0",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_012.png",
+          "sha256": "08db07092adc6caa086cd206bc95c877341a6bfc371ff7642e6abcfd31829383",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_013.png",
+          "sha256": "3849f3adea987eeeb23f8b23cfd6432d44971fedb1a43871e357b3811543ba1c",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_014.png",
+          "sha256": "94d4dc8fe0bd74d785e09c2a0d77b887a63a97439262d759b28ce95cee086aca",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_015.png",
+          "sha256": "8aefa144648dbac86117dd00c9f94781c73fabc84cdfb7e972cdaffa66dad916",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_016.png",
+          "sha256": "e6de7416cc6519c90f0eda81d1cf5eb52378823b751453332863d8555184e39e",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_017.png",
+          "sha256": "94d18b3337b9b5090275ea90b03dc4f9a81f5cab570484fb39e083298d63e2cc",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_018.png",
+          "sha256": "6e21587223141794ba9242c724d982513c5ba7582c9011f8461798726e711a63",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_019.png",
+          "sha256": "3dcdcc998d78f131347e35fb5fa79f62d2f90fa51db9a2ab47c41019f2bbda76",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_020.png",
+          "sha256": "ccdf6a1f02c7a3f3ee574cac9f7fcd458739bfda960285fc8fddeb147b8fe4d1",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_021.png",
+          "sha256": "dfa61b93e01e6ae731874f3ccb9a1da34870d78bdc1eef1695f4eed0a97593ab",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_022.png",
+          "sha256": "ff6e81974020a99be645372372f3f0e524c3cf8637109d7318d55fd16573d277",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_023.png",
+          "sha256": "6030b70fd82f3fdef799c2c2f0b58ce7f7d581e4adb91ca9ed4fd738c5a686ac",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_024.png",
+          "sha256": "759442633dde2ad342c4c28d0fe997031f8a632e0cc735e7d2349b3cf35bdd73",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_025.png",
+          "sha256": "08cedac1e3174846562dd31264e2a2ae0eb9c188e361aee263d0279630973569",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_026.png",
+          "sha256": "193c91392ee897e11232433f0d25766ae6a9e9fcbf161af1fc5594fb0acd3203",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_027.png",
+          "sha256": "40fcb81bfc30fa481964d07ab80b72684375daca09246a448cf7b57d44ab5d4e",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_028.png",
+          "sha256": "0dc9e4ee566ff05ae1b57d67fcbbc4528beddbbbd98d2cb9abfab06b395a7551",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_029.png",
+          "sha256": "fe5d161cee88695166af20a3576f6aea105be99e17e29b1545574c6cc43d60f8",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_030.png",
+          "sha256": "f4d3c321597c417ef2017679cf055f78b5e976564143a183a38021611e17f9f8",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_031.png",
+          "sha256": "f8858514f62a62f7de587a12c6b1febc3c8f8597fd99d728599e8dd557dfd79c",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_032.png",
+          "sha256": "386360a49ce5f7d1c465a9cf172c49bf01a49d4f6ae7001b890f2a675a007a36",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_033.png",
+          "sha256": "8691a56783ec1ae26d3e7de34a73bc0168e284d2711c9afa37d83fd180b58734",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_034.png",
+          "sha256": "6b66ad1c3b06c27bb1d02c4d4c7d7244d5b6fc05b4d59a97b409f0b47b63f179",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_035.png",
+          "sha256": "e24da3da2c79b59fcc5cb37fd45b92521a1d1e9e4efff4b5d3de5cb9b8964145",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_036.png",
+          "sha256": "0245892979cc880de920cfd592ca484383885849df0b986c7ec37f69b1411378",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_037.png",
+          "sha256": "aa61b108c66dcfbf43a64ea34fff5979b93da11287c9866f8f0959d5add76405",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_038.png",
+          "sha256": "3684f72d61d746d7b1f62999ab328983801ca3abc26d6c76682e500618e80f48",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_train_039.png",
+          "sha256": "4dc4f0241e8d2fa114586a7b3506322e56e2e16e25d8fd5c189f83053ed10258",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        }
+      ],
+      "PINEAPPLE___HEALTHY": [
+        {
+          "file": "PINEAPPLE___HEALTHY_train_000.png",
+          "sha256": "22f861265f3cb74768e02db956dba19a9e0fbec01405c6e70c246135d7ad3834",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_001.png",
+          "sha256": "275b09ae35e3abb4618c77ce40e150ec5ed17c5d3ecad0bba5bbdaa893ac9209",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_002.png",
+          "sha256": "1e395b8656bd6c425bcf1a903daa0974e37e349c8fc510a434c44890bec612ae",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_003.png",
+          "sha256": "3266296299831e65a5597135b08e496edbca234fdde6e83bfe01eaa407936586",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_004.png",
+          "sha256": "cba841c178c58414003e0f43f94b7e8e495407a272a11fb68b07a28c21353d58",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_005.png",
+          "sha256": "9f20f56f957e06f7652243b9195f3e8c2d4c1a42251fb3cfc9eb467379d458db",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_006.png",
+          "sha256": "e2cdab7595f2ef1bdc1d44cbc03227df1a490620234799c33b53d1f7c306968b",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_007.png",
+          "sha256": "8c5b59c2038b1027c6ed4b09ffa13104bfa75473bb19495e0c82347ef103dd58",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_008.png",
+          "sha256": "077d982a596b09919e2e63bdf24c5c7a1dbbb39676881cfe8fdc0aa987166135",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_009.png",
+          "sha256": "8ba961fe8b95c7cb26700916b7cd29942bb90e16c610ab35f25be35ea5e8d0ba",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_010.png",
+          "sha256": "3dc6ca97dba1097b81744943e5c9e653b69dfcf334afc29b65e7ee427bdac052",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_011.png",
+          "sha256": "30ad4006deb53b3cd64b262e05c8a1e5f59d53d3c0d939e852bc58dc758408f8",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_012.png",
+          "sha256": "c22217d5f00142c898f52e41c661a33d1388025829e3d1f9cb3edc9a045be6b8",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_013.png",
+          "sha256": "0ede1a355a145fa4cb978b4899e3186d59c1f2c610334ae45dcd67c7fc29f656",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_014.png",
+          "sha256": "8b9059ff0cd6e92972a8b25611b16d59f5a01315a5aec0941d53b17fc5ec8fbe",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_015.png",
+          "sha256": "22e5c7b7bd35f200610366463c3fcaab517eac3b6f085a7b9b24ae9eae5e9343",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_016.png",
+          "sha256": "cee374b8041f748c172999d43574e0ef4229433cd96d6a77d0ad7dc9437d0f95",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_017.png",
+          "sha256": "0bddab3a99fa74313b76290abcfb805307e9412b2131b956de4312ab83dc9147",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_018.png",
+          "sha256": "687f3a8558fb313aaf4588cdd05be84f293b7b61c3c9701073da4df3b50237bb",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_019.png",
+          "sha256": "f47519673c6b9eb7a2a93e3be68e8086aee3a18a6967ce73cb2bc5bf335c999a",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_020.png",
+          "sha256": "39058a0f33ec7a5a035ebfb9e4ee77f76432cc175847802d43d1fba829e79ff8",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_021.png",
+          "sha256": "c2d106c8003856e436186224dae768c519f38a1014991241e492c4b4e8d6c5b4",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_022.png",
+          "sha256": "03f6d1220b38682cb492c26c7a205d3bcf7649cfa1492f858a307e682c9cd7c7",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_023.png",
+          "sha256": "6b37151d247d17a4a4f7e05ab59b0e0a39622bba8cc7648c4cdb7e21a2ec902e",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_024.png",
+          "sha256": "66a3057ef8f7f76eb5557e7cebce1f3b83df4f3aae2eb6d2d3a3c7b156e074b7",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_025.png",
+          "sha256": "58bf7987a2cdfdefc37a25943ee17626db32570841f22f537f618f19e40ce447",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_026.png",
+          "sha256": "dd69f2816cf2f09ee34693421035a9bdc391448364ee5e6018653315e0be80e4",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_027.png",
+          "sha256": "d9618c3e9e11c87c749f924af3b6e3304893c1863c8614e38d6dfb5c148bb022",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_028.png",
+          "sha256": "f95c25f6d59e1b5d5c715ace7bc5563856c35dd3e4f70bddbb0f5a5873c6290a",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_029.png",
+          "sha256": "a080512ed6d5321d73033e8c9c6a9a15e09fbe069da70e81aea2b3915ac5b722",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_030.png",
+          "sha256": "fc0624b4fc6b10e84b07b34284d18b8f8f91b05d614b4be11c913c81b9d2a9ae",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_031.png",
+          "sha256": "cefd3dc00e1b17ef3e1256bb7e7729920afa2194e72ea31267fdda22668ef79e",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_032.png",
+          "sha256": "fba82ec259b399144fef8b7b533b276b97335fed17def8270456c703619b1045",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_033.png",
+          "sha256": "2dffd6ce863c45d74ea5297aea312b3751a8864cb3dbace0e6275916fdb3218a",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_034.png",
+          "sha256": "a4cb16643f7b9da5a06825a8323c4ad5b29973be38a770e5b72e9f55e8a393f5",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_035.png",
+          "sha256": "6126b34407a24f8dc970249234dd5e7a369fa74a3c99abe819188db6ff10b9ad",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_036.png",
+          "sha256": "0ceec606f2088c406b86c9e5993cdc2fe79110fa2665ad08daab3cb7b93d8297",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_037.png",
+          "sha256": "01b6f4bec92505ab61e4a16a5bc2e2f3619acd5ffc0d628ac6bed0b13a9963ce",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_038.png",
+          "sha256": "ef53a149c9cdb163e52f0a6815adfb598d8ca56d07ac89ff99eb7dd2e0b61c62",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_train_039.png",
+          "sha256": "14289e19c390097dcc4417a20d97ea493c8f21af0df5ba6637662a7e570515f7",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        }
+      ],
+      "PINEAPPLE___HEART_ROT": [
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_000.png",
+          "sha256": "955caa2c20ac00aafe39aeb698c704d87a40776c1b10ba4ba632860ccc2af473",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_001.png",
+          "sha256": "d0415c4c4e056bfe58edc6b0fd8afa18a30e776899256cbed235db9fd82dcd27",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_002.png",
+          "sha256": "b9470efcfdfe6887dcc7ef11bd7739fdd5fb42ef89cf43a945194690d97d4f85",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_003.png",
+          "sha256": "79c379131501b37504c8760b72e0b4134155c6a82923022dd7938e7271ca8b02",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_004.png",
+          "sha256": "2084bc42373f6fd0519749542eb361a8a4b05d5f931e84ec75984a4d34664808",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_005.png",
+          "sha256": "f5e2ddc9185370cb69d712d91abc69d51cbdd74f9cc076642e58206ff6d9d566",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_006.png",
+          "sha256": "3998fad8b8e48614c56dc90564ef6a1d99e90358b51c5198a7217a9b632a70d6",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_007.png",
+          "sha256": "4fb8eed773902752058b209822b51af9af95a21b1d96e29a33f13d837d770940",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_008.png",
+          "sha256": "d0f3cf47723ed2f908c1e3043ebe6da8513c0763554e1f04ff3e23eec083c86a",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_009.png",
+          "sha256": "01f40ddeadae6630bb6ab15d163dfbf4cb48a2ddc597dddcf6cd23c151790c31",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_010.png",
+          "sha256": "8e73c2e02f5ea88ea68954fc2d91c1efa203403f9693a4cb15f4d336bc20628e",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_011.png",
+          "sha256": "d782d9fea28aacc8c43520bbaa71d5a29c4796539dcd2a5096a913308f023759",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_012.png",
+          "sha256": "fd7d669f00145111b379161e0683e8380c65c7051d5cd2beebb9b2e5a6fb487c",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_013.png",
+          "sha256": "95828353655f529e85df50ea23b277a0bf4ea4a4e390fb40c85ee151c20ac820",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_014.png",
+          "sha256": "f9857f6da92ae49914887a4b8174f969b02692221b375b147ed057738754df73",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_015.png",
+          "sha256": "e35c44b68e3c5bc57d0bc1b12f2ef6d56c7c5c41559e2f0ca05acbe2d998aed6",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_016.png",
+          "sha256": "f08b7108cfbb6741fbeb2cf1577711c5f6b531bce3f782f99e5ec21740f5e511",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_017.png",
+          "sha256": "12514d4f37f3cf7651cbec42801c9484b6bb4b4734ea56763665b2e96eed2b83",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_018.png",
+          "sha256": "e1c956c85cb89b8a7f6a7dc5967358315cc783b26ed4f7c00cfa05f9aaf44d4a",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_019.png",
+          "sha256": "e344ab8bdd357e65d86165d5570fb8524d717ee0992522d9f3e323235c8bbd3b",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_020.png",
+          "sha256": "498854853798d761729e30f0cf83c9bdc3ed07641d29d0228d37ef068ce7b5bb",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_021.png",
+          "sha256": "38b00444f7c287a07f2224c4453b81e97dde6e44b38fe8bf46012a5f9a0ed0ac",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_022.png",
+          "sha256": "17c583ccf780722a4e8111fca908207be59aeb45cf0de96cbedc524fdd40d01b",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_023.png",
+          "sha256": "fc46912e82da9bbaaf8c6270558b5667a9ada242aac98a719d7aaa7315aa310b",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_024.png",
+          "sha256": "af945c0e84323378029a0b73738a5688a0d0df0356fbfb12d88b281b90bcc9c0",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_025.png",
+          "sha256": "480916565cfc7f40aef1afe996fea7c7e61c2e0175d31f4b326bddc067efbbb5",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_026.png",
+          "sha256": "dad7978df7e8fcf77b429f914fef1a82988190e796865e6e6a9eaae06af79d66",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_027.png",
+          "sha256": "7781088e5a9d8992ea8cf4c6d655a908036ffe0e123a4539066ffe6a74d835a0",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_028.png",
+          "sha256": "f966349064df9f37f85a01d2c5c819588616aa5b67155b440139f6c3413a2eae",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_029.png",
+          "sha256": "f18efcaa2ff5d97e02b8cfffd2df10791405a6dd1a6e4b6553fbf0cb2b8c093b",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_030.png",
+          "sha256": "322cab6d21874d1274a16a8082e1e3bcc31eca4cf10d022657d52286daf0d401",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_031.png",
+          "sha256": "d4fc2580c171f22b50858099298fc6ec6b71a7541aecdf1d6d8f750b0a59f142",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_032.png",
+          "sha256": "aa11bb4ba981908aac749d1bbf874b8ab1bc6e408810a6396cb75ac5b0294786",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_033.png",
+          "sha256": "66f5a99b0ee5267a6a10a3026197db57ac40c72f06a346fb56741da48683e62c",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_034.png",
+          "sha256": "76b63c5750164553e4c737cd9e1dec8bbcb2cc3b56bc8b764e163aad3d738622",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_035.png",
+          "sha256": "ae766146e779ace95497403cbb622816ced4b502e420c97fb52ee3e24f1373df",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_036.png",
+          "sha256": "211abd7961e9ff7466dbf71dc83e14fc6a0c0f21c76b4b91d7016b3173e81210",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_037.png",
+          "sha256": "b23c23e3c4b617b82eb4634ca8f6b5f6af51aba1f0efd81c8a9f9807e1c38a23",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_038.png",
+          "sha256": "958163b752577cfc50137ed4d5e1706ce5c50ffde627c695f53d2a669ce793e1",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_train_039.png",
+          "sha256": "e426e3e59c5af590ec7d989595abd57f89af5da3b9a7acec6130af327e1fc0f4",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        }
+      ]
+    },
+    "val": {
+      "BANANA___BUNCHY_TOP": [
+        {
+          "file": "BANANA___BUNCHY_TOP_val_000.png",
+          "sha256": "a4f0b77a796a3b92dbda4728bfcd997c873b2a04178dcd941e943123536932aa",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_val_001.png",
+          "sha256": "0ee51452155fa20c3e485b4b8d9d760dab84d1f35b1980c5d8c6861a70de71fa",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_val_002.png",
+          "sha256": "6bcfd7ee41c75c1dacc4a56687e2268885d8669611814cd72c0d8e2e3ac6d513",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_val_003.png",
+          "sha256": "4d3d1b0d769168e69cf96c518a3647e062c48584917ccb0ff84d38670163d0de",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_val_004.png",
+          "sha256": "c36385a51ca3b899ae22306491219660f31e75a0c2ebddb1cc6251cb1b353c54",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        }
+      ],
+      "BANANA___HEALTHY": [
+        {
+          "file": "BANANA___HEALTHY_val_000.png",
+          "sha256": "87f07f36bfe894b5b6cebfc4ce3df2eac593ebe139ee877633d37b71243a930e",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_val_001.png",
+          "sha256": "0721b5d00223b2364bbbb1ce0d85c604b8a9b272bf87b52e66f5c80d392b4648",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_val_002.png",
+          "sha256": "9fcd268c8555140b092c5e50e2b4a146dac9470562f0e2222050a3b97fb7ae12",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_val_003.png",
+          "sha256": "c716534aeb7a5ae735ab2c7fea18f6c738737b42550c9c1b76ec3cda8f26b213",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_val_004.png",
+          "sha256": "c1e946b83e4ad279de84eff03332d309cbb5da90661667e4358f25ffa8ceebd7",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        }
+      ],
+      "BANANA___SIGATOKA": [
+        {
+          "file": "BANANA___SIGATOKA_val_000.png",
+          "sha256": "e68b8962980ccc3f07368b3ba0d60b4ae5f19d0f4abd3e9b2e1f6dec8bfa192c",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_val_001.png",
+          "sha256": "72df09ad4d0e796bc07bb48ccd8711820da8d06454bd9d9361e18a7a4c1ad0f4",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_val_002.png",
+          "sha256": "e92961e0ae36e1af57a66febbba38c2de270089eb8176685f6c179028045c214",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_val_003.png",
+          "sha256": "ef3436dd43cc4d3553420d19cfbfd07c98082e9ca2205fef846f506b4e08cdd3",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_val_004.png",
+          "sha256": "740244cc6bc4bf3592300979c12840f496f0006b9832166f6930da0d962a12f3",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        }
+      ],
+      "BLACK_PEPPER___HEALTHY": [
+        {
+          "file": "BLACK_PEPPER___HEALTHY_val_000.png",
+          "sha256": "2cd70fcd5d1c49c96a3c20d010e2c4ab820c0bd907827ddef42bef889cd1d9cd",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_val_001.png",
+          "sha256": "ee4408b72f97a5cb96a308fcfc4f2e0f71452275e65871b2940a8fa1ac5fec99",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_val_002.png",
+          "sha256": "91f9a9676ee82132128f85b1abca6e51488c00ceed91c1267fd2296d09208630",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_val_003.png",
+          "sha256": "7a6997587c17ceb87a61214e77b9dd9245b9c357e54119c081c1f3c9cef7bf5e",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_val_004.png",
+          "sha256": "40f8b053cb32d88b20ada8a7318b9a011c66b6a60c77fe9357c82ac68b484352",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        }
+      ],
+      "BLACK_PEPPER___POLLU_DISEASE": [
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_val_000.png",
+          "sha256": "043d797610a645750907bac99bcac5016b9c63d474ab80166f1464c6e50ce249",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_val_001.png",
+          "sha256": "6d896ba30df7ec05afc24010d7c7ae281bbd6cbff3cc85675ca7399f09143b35",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_val_002.png",
+          "sha256": "8a675b934c6fc7d82d9fd64f738468022c785b0e82b87898f89541580e1e3fa5",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_val_003.png",
+          "sha256": "d8a4d01e702bfe66b1bb6d09d84a139fa5182c931836d1ec8850beee780b9c98",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_val_004.png",
+          "sha256": "003cc9b29f89c90eaea63d4c23d631af07ef81a4125e2c094b0cdd6ed9efadad",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        }
+      ],
+      "BLACK_PEPPER___QUICK_WILT": [
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_val_000.png",
+          "sha256": "e5fc05769943519def923159acd0d9a3a731c5baad00f63620fb75eab68045ff",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_val_001.png",
+          "sha256": "9061ee8b5daa4a0b8c2240ff3c853f6b6c511d9eebad479a94d8b82469a41282",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_val_002.png",
+          "sha256": "87fd90d90e358eb8ec6b94a72ef13ef880694c04d9934441cd83fea296c255ed",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_val_003.png",
+          "sha256": "fdfc8b618e4fba18a5168a3ba8a7b7a71169aeb3843a7fe5e602242581aa0efb",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_val_004.png",
+          "sha256": "c5e45e8275a5a651886c50151df0474993f77661f17cd07162eb38d70c79bd25",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        }
+      ],
+      "PINEAPPLE___HEALTHY": [
+        {
+          "file": "PINEAPPLE___HEALTHY_val_000.png",
+          "sha256": "0862da9aa02caa8373236c1378c863a47e95d6e02027cab7766351057325a731",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_val_001.png",
+          "sha256": "3240abd27845cb7ac0e98ad1eda8dc0dbfb8d5ac196bd1fe132028d8f23b0f82",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_val_002.png",
+          "sha256": "71b3f2b7929edd179164afc1ea2230374eb4c982a241a2889847ab8aa5ab6f40",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_val_003.png",
+          "sha256": "027e7eebae3282fbc9cf6876d9f05e90ed081c2f75008fa0937ea54e731d217a",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_val_004.png",
+          "sha256": "31faca226d537602ce8ddde05ebe6bc2a442fd496c18ce490534f3febb8aa23b",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        }
+      ],
+      "PINEAPPLE___HEART_ROT": [
+        {
+          "file": "PINEAPPLE___HEART_ROT_val_000.png",
+          "sha256": "de1136f08d5cce824ab10217dd3593fa1d3977a0b4a1f12e95f20f7aebfb9dbc",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_val_001.png",
+          "sha256": "e26b9faf7f07d38670c52678e41dfcb5ed4f38b0fd58f2cbc75f47ae85fb9c48",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_val_002.png",
+          "sha256": "74bf7ad3e58098a3aa3669aeb3b5bf42ffd788954cdefa4bab1336bd27a197b1",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_val_003.png",
+          "sha256": "188bbb7e6a5215f5fddca0845e93add76a3bf60f79ec95308f4f7c013ac9c87b",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_val_004.png",
+          "sha256": "f56fd67a411e8790c36f1e2549c88abb818e6e078901c6fbb1568d357215d572",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        }
+      ]
+    },
+    "test": {
+      "BANANA___BUNCHY_TOP": [
+        {
+          "file": "BANANA___BUNCHY_TOP_test_000.png",
+          "sha256": "84b38904758adc798966936ccba93ddaba532b961e93252b53ced34bd394dae9",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_test_001.png",
+          "sha256": "c0dcb248d695734c87975ca8d29ed78659327225dab6f06ce69540a7d783727a",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_test_002.png",
+          "sha256": "1a8525b24559ca9d6802fb398819d571f349883a10629119a7e4697e403ca4ac",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_test_003.png",
+          "sha256": "a32cf293889a37bb3c0eea1ce4095f3066c4834f7d46c9b6d66735963bfb2a59",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        },
+        {
+          "file": "BANANA___BUNCHY_TOP_test_004.png",
+          "sha256": "c9df798aad28cbdb5badc45ebcfb39e613c8c501ab3d3786bea0e33a2fc68527",
+          "class": "BANANA___BUNCHY_TOP",
+          "class_idx": 0
+        }
+      ],
+      "BANANA___HEALTHY": [
+        {
+          "file": "BANANA___HEALTHY_test_000.png",
+          "sha256": "f73e4eedcf07ca79ba8014df307dc536fce3404608f1d08192093f16c3c274b5",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_test_001.png",
+          "sha256": "6c67dba2049e87d71252acb0445420db33d5545b5032cf95de121fc0edc62271",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_test_002.png",
+          "sha256": "a8ece1bb9fbde1059e7ce164e7e7f18adba94c768ce3a65378bc412f06ad17cd",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_test_003.png",
+          "sha256": "6bbce5020460c65052ffb225160aa86af6a94e16334b452789bdadd2f0d2e3f7",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        },
+        {
+          "file": "BANANA___HEALTHY_test_004.png",
+          "sha256": "19d54287f9cc1d24387cbe32109530fd95b079806f79def165998dc3e53c09fd",
+          "class": "BANANA___HEALTHY",
+          "class_idx": 1
+        }
+      ],
+      "BANANA___SIGATOKA": [
+        {
+          "file": "BANANA___SIGATOKA_test_000.png",
+          "sha256": "e7abd94e857e0cc476436a66631c9fca934d5c43ad0d8f4ed4ea65451209893c",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_test_001.png",
+          "sha256": "02dfd6d159f62d925d17ca06cc7b6a9f1de47d1e6cf5dbc612997ce99cc8c48c",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_test_002.png",
+          "sha256": "0b64b55f9e91f498f0b30e233fe4d1ca18638081cd3a97af66184f8ac827209a",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_test_003.png",
+          "sha256": "0637922595ea36ca72f89f341c511d81a9930552c1be643d1b8cd9f04d783de5",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        },
+        {
+          "file": "BANANA___SIGATOKA_test_004.png",
+          "sha256": "3404e083c6a185d60c93ac28c435a280d47a57356b829fcdd050984e7b866cd7",
+          "class": "BANANA___SIGATOKA",
+          "class_idx": 2
+        }
+      ],
+      "BLACK_PEPPER___HEALTHY": [
+        {
+          "file": "BLACK_PEPPER___HEALTHY_test_000.png",
+          "sha256": "3dc4ef0b33c85796ab190847fc84ba94834b8446fc05e4fa05cbd57bb487e62d",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_test_001.png",
+          "sha256": "df1d52fa770d0d419bf24deabd824de745be9b8563d57f3b620ea3186e3dc8e7",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_test_002.png",
+          "sha256": "94d3c3915cb6fa6ebee4acd4e5cd1d5794da54bb746eee0e97628fa7d3b39f51",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_test_003.png",
+          "sha256": "b58ccc94497a18c3d46ccff1cdd26b6a1251b970cb74918cb6b770b4f4f52248",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        },
+        {
+          "file": "BLACK_PEPPER___HEALTHY_test_004.png",
+          "sha256": "c5b626d97f111c7f196cba893b54955dbb76411afbf3dd03c3ed66adbdca5f12",
+          "class": "BLACK_PEPPER___HEALTHY",
+          "class_idx": 3
+        }
+      ],
+      "BLACK_PEPPER___POLLU_DISEASE": [
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_test_000.png",
+          "sha256": "9c6494aad98244cdfa7bf326b0550f803e6b62e908c6092c56e55464bf97fe0e",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_test_001.png",
+          "sha256": "562c5cb88f037fc4897b8e4e70fc34d07653f3770908ec43bf0d1dd815ae32fe",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_test_002.png",
+          "sha256": "72eef943f633d734c8e469878fcf12a6d83d13427a2d88a9f5386641e0e12b60",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_test_003.png",
+          "sha256": "5767e0ec5aa55c0eb437dae39469b4599f54385e83ed69082800b96b751d2d6a",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        },
+        {
+          "file": "BLACK_PEPPER___POLLU_DISEASE_test_004.png",
+          "sha256": "4051c4a83b6b29dea6da066dea0fe6ddd161c79feb0fb564b20067f6c230a85d",
+          "class": "BLACK_PEPPER___POLLU_DISEASE",
+          "class_idx": 4
+        }
+      ],
+      "BLACK_PEPPER___QUICK_WILT": [
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_test_000.png",
+          "sha256": "4de76caae8c9a7c293b9ff28c75f6a06793d9e107a934929ed7b961d85a5839b",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_test_001.png",
+          "sha256": "4c9bc9144561659067ddc90f971673bdbd2abf3e0bfc05a8e61f682a37520dc6",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_test_002.png",
+          "sha256": "89d4d8bd890c621f00f5d5e03d0fc383cafff153ea7648ca35bf5f5d396ff7a2",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_test_003.png",
+          "sha256": "017fb7e5bfe87645638a89243aa7aca27cd1fcab1243114db342bf8af7931eb5",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        },
+        {
+          "file": "BLACK_PEPPER___QUICK_WILT_test_004.png",
+          "sha256": "a5bc3ac3aaa2d17c09e43062e1da889c12d7f714f1850920f8005da7c1d3ade0",
+          "class": "BLACK_PEPPER___QUICK_WILT",
+          "class_idx": 5
+        }
+      ],
+      "PINEAPPLE___HEALTHY": [
+        {
+          "file": "PINEAPPLE___HEALTHY_test_000.png",
+          "sha256": "e420683ec8b7af0ce7728bd3911699c9a99166af0150f82ae073d7117252bd88",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_test_001.png",
+          "sha256": "3ecbcc9676f520d96c98f1bc27f9f91abb1201ae2d005ab6a17fb4b8c4819fe5",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_test_002.png",
+          "sha256": "d862a4714909ffb70bd0c049be2a4b93806459916f600df890f322b1b3ef4d25",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_test_003.png",
+          "sha256": "360074793384757bd63c8127f88035164a2b966d05965ff5b2f668ea29194455",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        },
+        {
+          "file": "PINEAPPLE___HEALTHY_test_004.png",
+          "sha256": "9a6fccf8a137e2ac16650811b1d3d32fff380106e1eb3ded8c4b9db054872316",
+          "class": "PINEAPPLE___HEALTHY",
+          "class_idx": 6
+        }
+      ],
+      "PINEAPPLE___HEART_ROT": [
+        {
+          "file": "PINEAPPLE___HEART_ROT_test_000.png",
+          "sha256": "8f5b2b70bc3a2586e114ed83bb56dbb40ff311ef8db9b114f9a0757d09a932ad",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_test_001.png",
+          "sha256": "1de79dced8d4d272568b3f094c5f579562361d66e7d380858652f21637e564b5",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_test_002.png",
+          "sha256": "74a6747269845194f447b4d5241b7acee422d23b94755695c6845879f832f636",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_test_003.png",
+          "sha256": "e834b28c795ce75b42be5c1252abfff2702c663485c7aadb69f86d349e8f3c17",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        },
+        {
+          "file": "PINEAPPLE___HEART_ROT_test_004.png",
+          "sha256": "bbc8c96ee976d6128c4b9023411fd6ad76c5294f11d444313e247cdfe6ea6895",
+          "class": "PINEAPPLE___HEART_ROT",
+          "class_idx": 7
+        }
+      ]
+    }
+  }
+}

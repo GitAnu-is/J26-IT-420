@@ -1,0 +1,336 @@
+{
+  "evaluation_timestamp": "2026-10-18T21:21:46Z",
+  "evaluation_dataset": "Held-out test partition (10% stratified, zero leakage)",
+  "classes": [
+    "BANANA___BUNCHY_TOP",
+    "BANANA___HEALTHY",
+    "BANANA___SIGATOKA",
+    "BLACK_PEPPER___HEALTHY",
+    "BLACK_PEPPER___POLLU_DISEASE",
+    "BLACK_PEPPER___QUICK_WILT",
+    "PINEAPPLE___HEALTHY",
+    "PINEAPPLE___HEART_ROT"
+  ],
+  "proposed_model_efficientnet_b0": {
+    "model_name": "EfficientNet-B0",
+    "accuracy": 0.95,
+    "macro_precision": 0.9643,
+    "macro_recall": 0.95,
+    "macro_f1": 0.9514,
+    "weighted_precision": 0.9643,
+    "weighted_recall": 0.95,
+    "weighted_f1": 0.9514,
+    "inference_latency_ms": 73.79,
+    "total_parameters": 4017796,
+    "classification_report": {
+      "BANANA___BUNCHY_TOP": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 5.0
+      },
+      "BANANA___HEALTHY": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1-score": 0.8888888888888888,
+        "support": 5.0
+      },
+      "BANANA___SIGATOKA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 5.0
+      },
+      "BLACK_PEPPER___HEALTHY": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1-score": 0.8888888888888888,
+        "support": 5.0
+      },
+      "BLACK_PEPPER___POLLU_DISEASE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 5.0
+      },
+      "BLACK_PEPPER___QUICK_WILT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 5.0
+      },
+      "PINEAPPLE___HEALTHY": {
+        "precision": 0.7142857142857143,
+        "recall": 1.0,
+        "f1-score": 0.8333333333333334,
+        "support": 5.0
+      },
+      "PINEAPPLE___HEART_ROT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 5.0
+      },
+      "accuracy": 0.95,
+      "macro avg": {
+        "precision": 0.9642857142857143,
+        "recall": 0.95,
+        "f1-score": 0.9513888888888888,
+        "support": 40.0
+      },
+      "weighted avg": {
+        "precision": 0.9642857142857142,
+        "recall": 0.95,
+        "f1-score": 0.951388888888889,
+        "support": 40.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ],
+    "test_sample_count": 40,
+    "model_size_mb": 15.6
+  },
+  "comparison_model_resnet50": {
+    "model_name": "ResNet50",
+    "accuracy": 0.5,
+    "macro_precision": 0.4324,
+    "macro_recall": 0.5,
+    "macro_f1": 0.4141,
+    "weighted_precision": 0.4324,
+    "weighted_recall": 0.5,
+    "weighted_f1": 0.4141,
+    "inference_latency_ms": 187.31,
+    "total_parameters": 23524424,
+    "classification_report": {
+      "BANANA___BUNCHY_TOP": {
+        "precision": 1.0,
+        "recall": 0.4,
+        "f1-score": 0.5714285714285714,
+        "support": 5.0
+      },
+      "BANANA___HEALTHY": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "BANANA___SIGATOKA": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1-score": 0.8888888888888888,
+        "support": 5.0
+      },
+      "BLACK_PEPPER___HEALTHY": {
+        "precision": 0.2631578947368421,
+        "recall": 1.0,
+        "f1-score": 0.4166666666666667,
+        "support": 5.0
+      },
+      "BLACK_PEPPER___POLLU_DISEASE": {
+        "precision": 0.625,
+        "recall": 1.0,
+        "f1-score": 0.7692307692307693,
+        "support": 5.0
+      },
+      "BLACK_PEPPER___QUICK_WILT": {
+        "precision": 0.5714285714285714,
+        "recall": 0.8,
+        "f1-score": 0.6666666666666666,
+        "support": 5.0
+      },
+      "PINEAPPLE___HEALTHY": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "PINEAPPLE___HEART_ROT": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "accuracy": 0.5,
+      "macro avg": {
+        "precision": 0.4324483082706767,
+        "recall": 0.5,
+        "f1-score": 0.41411019536019533,
+        "support": 40.0
+      },
+      "weighted avg": {
+        "precision": 0.43244830827067665,
+        "recall": 0.5,
+        "f1-score": 0.4141101953601954,
+        "support": 40.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        2,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        4,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        0,
+        2,
+        0,
+        0
+      ]
+    ],
+    "test_sample_count": 40,
+    "model_size_mb": 90.04
+  },
+  "architectural_summary": {
+    "selected_deployment_model": "EfficientNet-B0",
+    "selection_rationale": "EfficientNet-B0 offers higher parameter efficiency, lower memory footprint, and reduced inference latency, making it optimal for mobile and edge deployment while maintaining competitive accuracy with ResNet50."
+  }
+}
