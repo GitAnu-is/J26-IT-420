@@ -9,3 +9,10 @@ coverage/
 .DS_Store
 dist/
 build/
+
+# C2 trained model weights and ML artifacts
+models/
+artifacts/
+uploads/c2_diseases/
+*.pth
+*.pt

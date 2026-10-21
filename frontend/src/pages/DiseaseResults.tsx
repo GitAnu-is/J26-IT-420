@@ -54,7 +54,8 @@ export function DiseaseResults() {
   const guidance = liveResult?.managementGuidance;
   const guidanceCitation = liveResult?.guidanceCitation;
 
-  const modelName = liveResult?.modelIdentifier || liveResult?.modelMetadata?.modelIdentifier || 'EfficientNet-B0';
+
+  const modelName = liveResult?.modelIdentifier || liveResult?.modelMetadata?.modelIdentifier || 'ResNet50';
   const modelVer = liveResult?.modelVersion || liveResult?.modelMetadata?.modelVersion || 'v1.0';
 
   return (

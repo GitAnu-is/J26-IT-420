@@ -148,7 +148,7 @@ class DiseaseDetectionService {
           },
           gradCamArtifactReference: gradCamKey,
           modelMetadata: {
-            modelName: predictionResult.modelIdentifier || 'EfficientNet-B0',
+            modelName: predictionResult.modelIdentifier || 'ResNet50',
             modelVersion: predictionResult.modelVersion || 'v1.0'
           },
           timestamp: new Date()
@@ -187,7 +187,7 @@ class DiseaseDetectionService {
       managementGuidance: predictionResult.managementGuidance || [],
       guidanceCitation: predictionResult.guidanceCitation,
       guidanceReviewedDate: predictionResult.guidanceReviewedDate,
-      modelIdentifier: predictionResult.modelIdentifier || 'EfficientNet-B0',
+      modelIdentifier: predictionResult.modelIdentifier || 'ResNet50',
       modelVersion: predictionResult.modelVersion || 'v1.0',
       predictionStatus: predictionResult.predictionStatus || 'COMPLETED',
       executionLatencyMs: predictionResult.executionLatencyMs,
